@@ -1,0 +1,7 @@
+{
+  "name": "Guangzhou Marine 3D Property Rights Pilot Portal",
+  "description": "A professional digital feasibility report and management dashboard for the 1km² grid 3D marine property rights project in Guangzhou.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
